@@ -5,9 +5,7 @@ site_url: https://codemateteam.github.io/php-handbook/
 
 repo_name: codemateteam/php-handbook
 repo_url: https://github.com/codemateteam/php-handbook
-edit_uri: edit/main/
-
-docs_dir: .
+edit_uri: edit/main/docs/
 
 theme:
   name: material
