@@ -353,7 +353,7 @@ docker system df
 Создай и запусти Laravel приложение с MySQL и Redis без docker-compose.
 
 <details>
-<parameter name>Решение</summary>
+<summary>Решение</summary>
 
 ```bash
 # Шаг 1: Создать сеть

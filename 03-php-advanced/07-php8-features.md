@@ -729,7 +729,7 @@ readonly class UserDTO
 Создай readonly DTO для регистрации пользователя, используя Property Promotion, Union Types и Named Arguments.
 
 <details>
-<parameter name="Решение</summary>
+<summary>Решение</summary>
 
 ```php
 <?php

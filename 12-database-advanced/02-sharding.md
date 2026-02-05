@@ -519,7 +519,7 @@ user_id → shard_id (consistent hashing)
 **Задача:** Создать ShardManager с hash-based шардингом для пользователей.
 
 <details>
-<parameter name="summary">Решение</summary>
+<summary>Решение</summary>
 
 ```php
 // app/Services/ShardManager.php
@@ -637,7 +637,7 @@ class UserRepository
 **Задача:** Реализовать глобальную уникальность email при шардинге пользователей.
 
 <details>
-<parameter name="summary">Решение</summary>
+<summary>Решение</summary>
 
 ```php
 // Migration для global lookup table
@@ -741,7 +741,7 @@ class UserRepository
 **Задача:** Реализовать consistent hashing для минимизации перемещения данных при добавлении шардов.
 
 <details>
-<parameter name="summary">Решение</summary>
+<summary>Решение</summary>
 
 ```php
 // app/Services/ConsistentHashing.php
