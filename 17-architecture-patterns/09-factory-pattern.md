@@ -363,7 +363,7 @@ $users = User::factory()->count(10)->unverified()->create();
 Реализуй `NotificationFactory` который создаёт разные типы уведомлений по условию.
 
 <details>
-<parameter name="summary">Решение</summary>
+<summary>Решение</summary>
 
 ```php
 // app/Factories/NotificationFactory.php
@@ -452,7 +452,7 @@ $notification->send();
 Создай базовый `ReportGenerator` и конкретные классы для PDF, Excel, CSV.
 
 <details>
-<parameter name="summary">Решение</summary>
+<summary>Решение</summary>
 
 ```php
 // Базовый интерфейс
@@ -601,7 +601,7 @@ class ReportController extends Controller
 Создай Model Factory для `Product` с разными состояниями (active, inactive, featured).
 
 <details>
-<parameter name="summary">Решение</summary>
+<summary>Решение</summary>
 
 ```php
 // database/factories/ProductFactory.php
