@@ -85,9 +85,9 @@
 Выбери свой путь:
 
 - [Начать с основ PHP](01-php-basics/01-types.md) - если ты новичок
-- [Laravel Basics](04-laravel-basics/01-architecture.md) - если знаешь PHP и хочешь изучить Laravel
-- [Design Patterns](11-design-patterns/01-creational.md) - для углубления в архитектуру
-- [Docker & DevOps](12-docker/01-docker-basics.md) - для изучения инфраструктуры
+- [Laravel Basics](05-laravel-basics/01-architecture.md) - если знаешь PHP и хочешь изучить Laravel
+- [Design Patterns](18-design-patterns/01-creational.md) - для углубления в архитектуру
+- [Docker & DevOps](11-docker/01-docker-basics.md) - для изучения инфраструктуры
 
 ## Об авторе
 
