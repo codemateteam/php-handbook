@@ -1,0 +1,33 @@
+# IDE and Editor
+.idea/
+.vscode/
+.claude/
+.qodo/
+.codex/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF resume (personal file)
+*.pdf
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node
+node_modules/
+package-lock.json
+.cache/
+
+# VitePress
+.vitepress/dist
+.vitepress/cache
+.temp/
