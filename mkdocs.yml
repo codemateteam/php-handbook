@@ -7,6 +7,8 @@ repo_name: codemateteam/php-handbook
 repo_url: https://github.com/codemateteam/php-handbook
 edit_uri: edit/main/
 
+docs_dir: .
+
 theme:
   name: material
   language: ru
