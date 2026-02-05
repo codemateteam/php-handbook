@@ -489,7 +489,7 @@ $result = timer(function () {
 Создай оптимальную конфигурацию OPcache для Laravel приложения на production.
 
 <details>
-<parameter name="Решение</summary>
+<summary>Решение</summary>
 
 ```ini
 ; /etc/php/8.2/fpm/conf.d/10-opcache.ini
