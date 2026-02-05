@@ -24,6 +24,8 @@ export default defineConfig({
 
     nav: [
       { text: 'Главная', link: '/' },
+      { text: 'Roadmap', link: '/roadmap' },
+      { text: 'Менторинг', link: 'https://codemate.team' },
       { text: 'GitHub', link: 'https://github.com/codemateteam/php-handbook' }
     ],
 
