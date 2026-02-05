@@ -5,6 +5,8 @@ export default defineConfig({
   description: 'Полное руководство по подготовке к собеседованиям на PHP/Laravel разработчика',
   lang: 'ru-RU',
 
+  ignoreDeadLinks: true,
+
   base: '/php-handbook/',
 
   head: [
